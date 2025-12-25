@@ -1,18 +1,22 @@
-# BunnyEra AccountManager
+# 🔐 BunnyEra AccountManager
 
-Full-stack account management and automation system with multi-region scheduling and RPA integration.
+## 📌 Overview
+Full-stack account management and automation system with multi-region scheduling and RPA integration.  
+这是 BunnyEra 的身份管理层。
 
-## Features
-- Enterprise account hosting and cross-border registration
-- Matrix promotion and growth tools
-- RPA scripts for batch automation
-- Multi-region scheduling and compliance support
+---
 
-## Structure
-- `models/` → Account and user models
-- `routes/` → API endpoints
-- `services/` → RPA and automation services
-- `tests/` → Unit and integration tests
+## 🔗 Features
+- 跨境账号注册与托管  
+- 多区域调度与 RPA 集成  
+- 身份模块（虚拟手机号池 & 邮箱池）
 
-## License
+---
+
+## 📜 License
 MIT License
+
+---
+
+## ⬅️ Back to Brand Overview
+[Go to BunnyEra Ecosystem README](../bunnyera-system/README.md)
